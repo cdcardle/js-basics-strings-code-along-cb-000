@@ -1,4 +1,4 @@
-let currentUser = "Me"
-let welcomeMessage = "Welcome to Flatbook, " + currentUser + "!"
-let excitedWelcomeMessage = "WELCOME TO FLATBOOK, " + currentUser + "!"
-let shortGreeting = "Welcome, " + currentUser.slice(0, 1) + "!"
+const currentUser = "Me"
+const welcomeMessage = "Welcome to Flatbook, " + currentUser + "!"
+const excitedWelcomeMessage = "WELCOME TO FLATBOOK, " + currentUser + "!"
+const shortGreeting = "Welcome, " + currentUser.slice(0, 1) + "!"
